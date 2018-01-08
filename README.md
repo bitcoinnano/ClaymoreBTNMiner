@@ -1,8 +1,8 @@
 Claymore's Bitcoin Nano AMD GPU Miner
 
-[Download Windows BTN AMD Miner](https://github.com/poolgold/ClaymoreBTGMiner/releases/download/v12.6-BTG/Claymore.s.BTG.AMD.GPU.Miner.v12.6.zip)
+[Download Windows BTN AMD Miner](https://www.btcnano.org/downloads/Claymore.s.BTN.AMD.GPU.Miner.v12.6.rar)
 
-[Download Linux BTN AMD Miner](https://github.com/poolgold/ClaymoreBTGMiner/releases/download/v12.6-BTG/Claymore.s.BTG.AMD.GPU.Miner.v12.6.-.LINUX.zip)
+[Download Linux BTN AMD Miner](https://www.btcnano.org/downloads/Claymore.s.BTN.AMD.GPU.Miner.v12.6.-.LINUX.rar)
 
 
 
